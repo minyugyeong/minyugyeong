@@ -42,10 +42,16 @@
 
 <!-- Github stack -->
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=minyugyeong&count_private=true&show_icons=true&theme=buefy"/>
-</p>
 
+<!-- Hits -->
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyugyeong&count_bg=%23DCAFEB&title_bg=%23B72AD9&icon=&icon_color=%230B0A0A&title=hits&edge_flat=false"/>
+</div>
+</br>
+<!-- Github Stats -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=minyugyeong&count_private=true&show_icons=true&theme=buefy"/>
+</div>
 </br>
 
 <!-- Most Used Languages -->
