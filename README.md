@@ -49,7 +49,10 @@
 </div>
 </br>
 
-<!-- Footer -->
+<!-- Most Used Languages -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?section=footer&color=gradient&customColorList=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyugyeong&langs_count=10&layout=compact&theme=buefy" />
 </p>
+</br>
+
+
