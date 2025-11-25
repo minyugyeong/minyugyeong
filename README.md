@@ -40,19 +40,6 @@
 </p>  
 </br>
 
-<!-- Github stack -->
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-<!-- Github Stats -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=minyugyeong&count_private=true&show_icons=true&theme=buefy"/>
-</div>
-</br>
-
-<!-- Most Used Languages -->
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyugyeong&langs_count=10&layout=compact&theme=buefy" />
-</p>
-</br>
 
 
